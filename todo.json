@@ -1,0 +1,88 @@
+{
+    "errands": [
+        {
+            "title": "Shopping",
+            "description": "Go to x, y, z to get items listed",
+            "taskList": {
+                "Hats": 9,
+                "Bags": 8,
+                "shoes": 6,
+                "rings": 9
+            }
+        },
+        {
+            "title": "Food",
+            "description": "Grocery shooping",
+            "taskList": {
+                "Milk": 1,
+                "eggs": 6,
+                "peppers": 3,
+                "apples": 12
+            }
+        }, 
+        {
+            "title": "Party Shopping",
+            "description": "go to party city",
+            "taskList": {
+                "Balloons": 50,
+                "streamers": 8,
+                "signs": 3,
+                "cups": 20
+            }
+        },
+        {
+            "title": "Cook",
+            "description": "make party food",
+            "taskList": {
+                "BBQ": 35,
+                "buns": 35,
+                "salads": 2,
+                "toppers": 4
+            }
+        },
+        {
+            "title": "Decorate",
+            "description": "set up",
+            "taskList": {
+                "Chairs": 24,
+                "tables": 8,
+                "decor": 61
+            }
+        },
+        {
+            "title": "Baker",
+            "description": "pies",
+            "taskList": {
+                "pecan": 9,
+                "derby": 8,
+                "apple": 6
+            }
+        },
+        {
+            "title": "Games",
+            "description": "set up games",
+            "taskList": {
+                "corn hole": 3,
+                "flip cup": 2,
+                "volleyball": 1,
+                "baseball": 1
+            }
+        },
+        {
+            "title": "Host",
+            "description": "plan a neighborhood game day",
+            "taskList": {
+                "food": 9,
+                "decor": 8,
+                "taskers": 6
+            }
+        },
+        {
+            "title": "assistant",
+            "description": "help set up",
+            "taskList": {
+                "FindAJob": 1
+            }
+        }
+    ]
+}
